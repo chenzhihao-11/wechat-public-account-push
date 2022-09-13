@@ -23,7 +23,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "Q15021178456",
+      name: "oRZa45l_NZA8BllCJiGE2jmlUHwc",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
@@ -57,42 +57,42 @@ export const config = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+//     {
+//       name: "老婆1",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
+//     {
+//       name: "老婆2",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
+//     {
+//       name: "老婆3",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
     // 你可以不断按格式往下增加
     // ...
   ],
