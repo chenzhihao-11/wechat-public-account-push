@@ -23,11 +23,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "oRZa45l_NZA8BllCJiGE2jmlUHwc",
+      name: "Gson",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oRZa45l_NZA8BllCJiGE2jmlUHwc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "1",
+      useTemplateId: "XYSUfxO_UTL2HUXYVnzw2UBDWsIAPVvfHz_EJMxLGIA",
       // 所在省份
       province: "上海",
       // 所在城市
