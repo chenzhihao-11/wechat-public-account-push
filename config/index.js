@@ -65,18 +65,20 @@ export const config = {
 //         {"keyword": "ex_day", date: "2022-09-10"},
 //       ]
 //     },
-//     {
-//       name: "老婆1",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       horoscopeDate: '',
-//       horoscopeDateType: '',
-//       openUrl: "https://wangxinleo.cn",
-//       festivals: [],
-//       customizedDateList: []
-//     },
+    
+     {
+       name: "安娜",
+       id: "oRZa45o3Ayn5wXawipdHFXowcM6A",
+       useTemplateId: "D7B5Ia6y2BaAS2JpeZEZm_3nESOLrAK_C8qhLEkW47Y",
+       province: "上海",
+       city: "上海",
+       openUrl: "https://www.iamwawa.cn/lizhi.html",
+       festivals: [
+          {"type": "节日", "name": "国庆节", "year": "2022", "date": "10-01"},
+          {"type": "节日", "name": "元旦", "year": "2023", "date": "01-01"},
+          {"type": "节日", "name": "春节", "year": "2023", "date": "01-22"},
+       ]
+     },
 //     {
 //       name: "老婆2",
 //       id: "",
